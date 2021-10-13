@@ -1,0 +1,26 @@
+body {
+    background: #183A4A;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 68px;
+}
+.number {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+.box {
+    height: 143px;
+    width: 143px;
+    background: #3D88AE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fizz {
+    background: #61D2A4;
+}
